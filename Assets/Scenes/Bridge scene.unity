@@ -2452,6 +2452,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: New bridge scene
       objectReference: {fileID: 0}
+    - target: {fileID: 5586821640661732521, guid: 1efb611fb62145347ba8b3a21681ac9b,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1efb611fb62145347ba8b3a21681ac9b, type: 3}
 --- !u!1001 &1009463421
